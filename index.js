@@ -42,7 +42,7 @@ Aşağıdakileri yap:
 
    İPUCU: Number metoduna bakabilirsin
 */
-
+console.log("Hello World");
 /*
 Görev 1d - Çarpma
  
